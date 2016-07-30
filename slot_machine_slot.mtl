@@ -1,0 +1,13 @@
+# Blender MTL File: 'slot_machine.blend'
+# Material Count: 1
+
+newmtl Slot1.001
+Ns 94.117647
+Ka 0.088462 0.088462 0.088462
+Kd 0.456642 0.640000 0.308264
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd slot1.png
